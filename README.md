@@ -6,8 +6,7 @@
 
 **Donde el desierto encuentra el mar, tu metro mueve la ciudad.**
 
-![Map Preview](https://github.com/user-attachments/assets/bf5bbcdf-e409-4b05-8a67-94cc26f73f63)
-
+![Map Preview](https://github.com/user-attachments/assets/0a2178af-4b48-41a1-8f0b-ab04e00075b8)
 ### Coverage
 
 <table style="width: auto">
