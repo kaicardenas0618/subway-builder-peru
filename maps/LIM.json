@@ -7,7 +7,7 @@
       "date": "2026-05-31",
       "changelog": "Increased the number of grid cells by decreasing the side length from 400m to 200m.",
       "download": "https://github.com/kaicardenas0618/subway-builder-peru/releases/download/1.0.1/LIM.zip",
-      "sha256": "83309c193d6a7782a38a280d51aab996bfecd9665fe1d358c80e1b0e3d8ad5e2"
+      "sha256": "00805136defa122c51b7160adf4d8fd2efae22ae911b5160d8052ae012e70669"
     },
     {
       "version": "1.0.0",
