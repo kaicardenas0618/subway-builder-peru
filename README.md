@@ -250,7 +250,7 @@
 
 ### Additional Features
 
-* **Population Grid** — Resident demand is generated from census-block/manzana-level population data and aggregated into 400-meter hexagonal cells.
+* **Population Grid** — Resident demand is generated from census-block/manzana-level population data and aggregated into 200-meter hexagonal cells.
 * **Workplace Grid** — Workplace demand is generated from VCENEC 2022 economic-census employment data and aggregated into the same grid.
 * **Special Demand** — Major universities, malls, markets, attractions, hospitals, terminals, stadiums, and the airport are modled in the map.
 * **Municipal Coverage** — The map covers Lima Province and the Constitutional Province of Callao.
@@ -260,7 +260,7 @@
 
 This map uses a two-stage demand model.
 
-First, Lima + Callao are divided into a 400-meter hexagonal grid. Resident demand is allocated from manzana-level population data into hexes. Job demand is allocated from VCENEC 2022 workplace/economic-census data into the same grid. The result is a base grid where each cell contains `RESIDENTS` and `JOBS`.
+First, Lima + Callao are divided into a 200-meter hexagonal grid. Resident demand is allocated from manzana-level population data into hexes. Job demand is allocated from VCENEC 2022 workplace/economic-census data into the same grid. The result is a base grid where each cell contains `RESIDENTS` and `JOBS`.
 
 Second, the demand generator converts the grid into Subway Builder demand points. Each grid cell becomes a base point with residential capacity and workplace demand. Additional special demand points are added for major trip generators that are not fully represented by the base employment grid, such as Jorge Chávez International Airport, Gamarra, major shopping centers, universities, hospitals, stadiums, attractions, and intercity bus terminal clusters.
 
