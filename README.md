@@ -1,8 +1,6 @@
 # Subway Builder Peru Maps
 
-## Lima
-
-#### LIM · 1.0.0
+## Lima + Callao (LIM)
 
 **Donde el desierto encuentra el mar, tu metro mueve la ciudad.**
 
