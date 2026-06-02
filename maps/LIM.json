@@ -5,9 +5,9 @@
       "version": "1.1.0",
       "game_version": ">=1.3.0",
       "date": "2026-06-01",
-      "changelog": "<ul><li>Improved demand data by adding estimates for informal demand</li><li>Made special demand data more closely aligned with real figures/estimates</li><li>Increased building filtering for better performance</li></ul>",
+      "changelog": "<ul><li>Improved demand data by adding estimates for informal demand</li><li>Made special demand data more closely aligned with real figures/estimates</li><li>Increased building filtering for better performance</li><li>Added informal employment demand distributed across existing points</li></ul>",
       "download": "https://github.com/kaicardenas0618/subway-builder-peru/releases/download/1.1.0/LIM.zip",
-      "sha256": "00805136defa122c51b7160adf4d8fd2efae22ae911b5160d8052ae012e70669"
+      "sha256": "a5d12a33a0394c3167f249828010762b1fdd67717a9aeec1c02f3aadaf62537c"
     },
     {
       "version": "1.0.1",
