@@ -86,7 +86,7 @@
 <table style="width: auto">
   <tr>
     <td><strong>Total Population</strong></td>
-    <td align="right">124,90,709</td>
+    <td align="right">12,490,709</td>
   </tr>
   <tr>
     <td><strong>Total Modeled Demand</strong></td>
